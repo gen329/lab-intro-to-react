@@ -2,8 +2,7 @@ import React from 'react';
 
 const NavBar = () => {
   return (
-    <NavBar>
-      <div>
+      <>
         <ul>
           <li>
             <a href="#">What is Pursuit?</a>
@@ -15,8 +14,7 @@ const NavBar = () => {
             <a href="#">Sign in</a>
           </li>
         </ul>
-      </div>
-    </NavBar>
+      </>
   );
 }
 
