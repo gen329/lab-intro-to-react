@@ -3,11 +3,10 @@ img {
   width: 200px;
 }
 
-.userprofile-container {
+.post-container {
   display: flex;
+  align-items: center;
+  justify-content: left;
   flex-direction: row;
   border: 1px solid gray;
-  width: 50%;
-  height: 100%;
 }
-

@@ -1,0 +1,9 @@
+.posts-container {
+  display: flex;
+  justify-content: left;
+  flex-direction: column;
+  width: 50%;
+  align-items: center;
+  border: 1px solid gray;
+}
+
