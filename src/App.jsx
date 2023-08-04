@@ -1,5 +1,5 @@
 import React from "react";
-import NavBar from "./Components/NavBar";
+import NavBar from "./Components/NavBar.jsx";
 import UserProfile from "./Components/UserProfile.jsx"
 import Posts from "./Components/Posts.jsx"
 import Contacts from "./Components/Contacts.jsx";
